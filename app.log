@@ -1,0 +1,20 @@
+2024-08-03 21:44:42,238 - INFO - Model, encoders, and scaler loaded successfully.
+2024-08-03 21:44:44,022 - INFO - Model, encoders, and scaler loaded successfully.
+2024-08-03 21:44:45,313 - INFO - Home page accessed.
+2024-08-03 21:45:16,308 - INFO - Received features: ['x', 's', 'n', 't', 'p', 'f', 'c', 'n', 'k', 'e', 'e', 's', 's', 'w', 'w', 'p', 'w', 'o', 'p', 'k', 's', 'u']
+2024-08-03 21:45:16,317 - INFO - Prediction result: Poisonous
+2024-08-03 21:45:17,581 - INFO - Home page accessed.
+2024-08-03 21:45:48,210 - INFO - Received features: ['x', 's', 'y', 't', 'a', 'f', 'c', 'b', 'k', 'e', 'c', 's', 's', 'w', 'w', 'p', 'w', 'o', 'p', 'n', 'n', 'g']
+2024-08-03 21:45:48,216 - INFO - Prediction result: Edible
+2024-08-03 21:45:49,491 - INFO - Home page accessed.
+2024-08-04 12:11:47,999 - INFO - Model, encoders, and scaler loaded successfully.
+2024-08-04 12:11:50,541 - INFO - Model, encoders, and scaler loaded successfully.
+2024-08-04 12:11:51,600 - INFO - Home page accessed.
+2024-08-04 12:19:44,516 - INFO - Received features: ['x', 's', 'n', 't', 'p', 'f', 'c', 'n', 'k', 'e', 'e', 's', 's', 'w', 'w', 'p', 'w', 'o', 'p', 'k', 's', 'u']
+2024-08-04 12:19:44,546 - INFO - Prediction result: Poisonous
+2024-08-04 12:20:32,921 - INFO - Home page accessed.
+2024-08-04 12:21:11,627 - INFO - Received features: ['x', 's', 'y', 't', 'a', 'f', 'c', 'b', 'k', 'e', 'c', 's', 's', 'w', 'w', 'p', 'w', 'o', 'p', 'n', 'n', 'g']
+2024-08-04 12:21:11,646 - INFO - Prediction result: Edible
+2024-08-04 13:33:40,261 - INFO - Home page accessed.
+2024-08-04 13:34:15,764 - INFO - Received features: ['x', 'y', 'y', 't', 'a', 'f', 'c', 'b', 'n', 'e', 'c', 's', 's', 'w', 'w', 'p', 'w', 'o', 'p', 'k', 'n', 'g']
+2024-08-04 13:34:15,811 - INFO - Prediction result: Edible
